@@ -1,4 +1,3 @@
-package vehicle;
 
 public class VehicleMain {
 
